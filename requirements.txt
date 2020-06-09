@@ -5,7 +5,7 @@ pytest==5.2.2
 pytest-html==1.19.0
 pytest-metadata==1.7.0
 pytest-rerunfailures==5.0
-requests==2.18.4
+requests==2.20.0
 Jinja2==2.10
 pithy==0.0.3
 pithy-test==0.0.16
